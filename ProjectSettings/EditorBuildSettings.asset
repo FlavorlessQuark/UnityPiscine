@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Day00/ex04/Scenes/ex04.unity
     guid: 4f610cd36f6c2c6489ae5b76e253a293
+  - enabled: 1
+    path: Assets/Day01/Scenes/level00.unity
+    guid: e6b62237fd2afb749bd2702c51828aaf
+  - enabled: 1
+    path: Assets/Day01/Scenes/level01.unity
+    guid: 6aba5c41ce59b5241b50742b48e5d965
   m_configObjects: {}
